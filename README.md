@@ -12,6 +12,6 @@ Random Forest
 
 SVM
 
-Logistic 
+Logistic Regression 
 
 ANN
